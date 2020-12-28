@@ -2,10 +2,11 @@
   "exercises": [
     {
       "id": "1",
-      "title": "Workout",
+      "title": "5 Moves For Best Booty",
       "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/active-adult-athlete-body-416778.jpg",
-      "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/workout_for_girls.gif",
+      "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/5-moves-for-best-booty.gif",
       "seconds": "30"
+    },
     {
       "id": "2",
       "title": "Abs Workout",
@@ -364,19 +365,6 @@
       "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/upside_leg.gif",
       "seconds": "30"
     },
-    {
-      "id": "49",
-      "title": "Washboard Abs",
-      "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/selective-focus-photography-of-woman-in-pink-shirt-1199590.jpg",
-      "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/washboard_abs.gif",
-      "seconds": "30"
-    },
-    {
-      "id": "50",
-      "title": "Workout",
-      "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/active-adult-athlete-body-416778.jpg",
-      "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/workout_for_girls.gif",
-      "seconds": "30"
-    }
+   
   ]
 }
