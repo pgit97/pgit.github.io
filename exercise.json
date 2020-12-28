@@ -1,6 +1,7 @@
 {
   "exercises": [
-  "id": "1",
+    {
+      "id": "1",
       "title": "Workout",
       "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/active-adult-athlete-body-416778.jpg",
       "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/workout_for_girls.gif",
