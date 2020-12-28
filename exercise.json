@@ -1,12 +1,10 @@
 {
   "exercises": [
-    {
-      "id": "1",
-      "title": "5 Moves For Best Booty",
-      "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/brandless-VKnjdEesFxw-unsplash.jpg",
-      "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/abs_workout.gif",
+  "id": "1",
+      "title": "Workout",
+      "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/active-adult-athlete-body-416778.jpg",
+      "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/workout_for_girls.gif",
       "seconds": "30"
-    },
     {
       "id": "2",
       "title": "Abs Workout",
